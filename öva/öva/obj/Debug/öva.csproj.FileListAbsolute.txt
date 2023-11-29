@@ -1,0 +1,8 @@
+C:\Users\zirko\source\repos\öva\öva\bin\Debug\öva.exe.config
+C:\Users\zirko\source\repos\öva\öva\bin\Debug\öva.exe
+C:\Users\zirko\source\repos\öva\öva\bin\Debug\öva.pdb
+C:\Users\zirko\source\repos\öva\öva\obj\Debug\öva.csproj.AssemblyReference.cache
+C:\Users\zirko\source\repos\öva\öva\obj\Debug\öva.csproj.SuggestedBindingRedirects.cache
+C:\Users\zirko\source\repos\öva\öva\obj\Debug\öva.csproj.CoreCompileInputs.cache
+C:\Users\zirko\source\repos\öva\öva\obj\Debug\öva.exe
+C:\Users\zirko\source\repos\öva\öva\obj\Debug\öva.pdb
